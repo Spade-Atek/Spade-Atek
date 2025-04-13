@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spade-Atek&langs_count=8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spade-Atek&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spade-Atek&layout=compact&langs_count=10&hide=c,html)
