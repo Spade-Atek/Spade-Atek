@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spade-Atek&langs_count=8)
-
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Spade-Atek)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spade-Atek&layout=compact)
