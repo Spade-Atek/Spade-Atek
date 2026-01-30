@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spade-Atek&layout=compact&langs_count=6&hide=c,html,css,hack,cmake)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Spade-Atek&layout=compact&langs_count=6&hide=c,html,css,hack,cmake)
 <!--
 **Spade-Atek/Spade-Atek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
